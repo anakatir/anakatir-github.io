@@ -11,3 +11,4 @@ After graduating high-school, I scored my way into the only public digital arts 
 
 The last year and a half, I have been working for a clothes manufacturer and distributor brand in Greece, succesfully creating the visuals and art they need for their newsletter campaings, online banner commercials and social media content, as well as a large amount of retouching needed for their e-shop content. 
 
+You can check out my Résumé [here](/content/pdf/AKK_CV.pdf).

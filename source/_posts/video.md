@@ -1,6 +1,6 @@
 ---
 title: video
-cover_index: "/content/images/Video/memento_3.jpg"
+cover_index: "/content/images/Video/memento_3_s.jpg"
 cover_detail: "/content/images/Video/memento_1.jpg"
 date: 2017-02-19 18:55:09
 tags:

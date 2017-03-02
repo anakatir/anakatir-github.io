@@ -1,6 +1,6 @@
 ---
 title: animation
-cover_index: "/content/images/animation/fork_sq.jpg"
+cover_index: "/content/images/animation/fork_sq_s.jpg"
 cover_detail: "/content/images/animation/fork.jpg"
 date: 2017-02-19 18:55:09
 tags:

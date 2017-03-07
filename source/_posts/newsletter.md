@@ -3,7 +3,7 @@ id: newsletter
 title: newsletter
 cover_index: "/content/images/newsletter/Edit_Sample_sq_s.jpg"
 cover_detail: "/content/images/newsletter/landscape_s.jpg"
-date: 2017-02-19 18:55:09
+date: 2017-02-18 18:55:09
 tags:
 ---
 

@@ -13,12 +13,8 @@ tags:
 
 <img class="post" src="/content/images/social_content/curvy.jpg">
 
-<img class="post" src="/content/images/social_content/skater.jpg">
+<img class="post" src="/content/images/social_content/sale02.jpg">
 
-<img class="post" src="/content/images/social_content/christmas.jpg">
+<img class="post" src="/content/images/social_content/Cyprus_site_3.jpg">
 
 <img class="post" src="/content/images/social_content/black.jpg">
-
-<img class="post" src="/content/images/social_content/casual_chic.jpg">
-
-

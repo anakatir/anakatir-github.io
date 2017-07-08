@@ -21,7 +21,6 @@ tags:
 
 <a href="http://us9.campaign-archive2.com/?u=31193cb387db430ae450d0b47&id=1ca9ad1998&e=6010b3d0d9"><img class="post-small" src="/content/images/newsletter/bs.jpg"> </a>
 
-<a href="http://us9.campaign-archive1.com/?u=31193cb387db430ae450d0b47&id=217b80b13e&e=6010b3d0d9"><img class="post-small" src="/content/images/newsletter/letter_to_santa.jpg"></a>
 
 
 

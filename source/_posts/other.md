@@ -7,13 +7,13 @@ tags:
 ---
 ## Print
 
-<img class="post-small" src="/content/images/animation/evacard_mockup.jpg">
+<img class="post" src="/content/images/animation/evacard_mockup.jpg">
 
-## Logo Redisign
+## Logo Redesign 
 
 <img class="post-small" src="/content/images/animation/logo-prolingua.jpg">
 
-## 2D Graphics 
+## 2D Graphics - Illustration
 
 <img class="post-small" src="/content/images/animation/Gilbert.jpg">
 <img class="post-small" src="/content/images/animation/poly_lion.jpg">

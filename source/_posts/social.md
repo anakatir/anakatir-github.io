@@ -1,13 +1,16 @@
 ---
 title: Social Media Ads
-cover_index: "/content/images/social_content/sale02_s2.jpg"
+cover_index: "/content/images/social_content/sqr_ads.jpg"
 cover_detail: "/content/images/social_content/sale02_s.jpg"
 date: 2017-02-19 18:55:09
 tags:
 ---
 
 
-<img class="post" src="/content/images/social_content/sale02.jpg">
+
+<img class="post" src="/content/images/social_content/banner.jpg">
+
+<img class="post" src="/content/images/social_content/snow.gif">
 
 <img class="post" id="new-year" src="/content/images/social_content/new-year-wishes.gif">
 
@@ -19,3 +22,6 @@ tags:
 
 <img class="post" src="/content/images/social_content/Cyprus_site_3.jpg">
 
+<img class="post" src="/content/images/social_content/box1.jpg">
+
+<img class="post" src="/content/images/social_content/sale02.jpg">

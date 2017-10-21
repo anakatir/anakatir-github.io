@@ -8,6 +8,11 @@ tags:
 ---
 
 
+## Newsletter Template made with HTML5 and CSS3
+
+<img class="post-small" src="/content/images/newsletter/newsletter_template.jpg">
+
+## More campaigns [click for full campaign]
 
 <a href="http://us9.campaign-archive2.com/?u=31193cb387db430ae450d0b47&id=fc1b98a5f5&e=6010b3d0d9"><img class="post-small" src="/content/images/newsletter/kalispera.gif"></a>
 

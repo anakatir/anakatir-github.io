@@ -5,7 +5,7 @@ cover_detail: "/content/images/photography/slider_5.jpg"
 date: 2017-02-19 18:55:09
 ---
 
-<iframe height="600px" width="300px" scrolling="no" src="/content/prolingua"></iframe>
+<iframe height="600px" width="300px" scrolling="no" src="https://anakatir.github.io/content/prolingua/"></iframe>
 
 <br>
 

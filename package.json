@@ -7,8 +7,9 @@
   },
   "scripts": {
     "prestart": "npm install",
-    "start": "hexo server --draft --open #restart the server",
-    "deploy": "hexo clean && hexo generate && hexo deploy"
+    "start": "npm run build && hexo server --draft --open #restart the server",
+    "build": "hexo clean && hexo generate && cp source/content/__prolingua public/content/prolingua -r",
+    "deploy": "hexo deploy"
   },
   "dependencies": {
     "hexo": "^3.2.0",

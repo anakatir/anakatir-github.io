@@ -5,14 +5,19 @@ cover_detail: "/content/images/photography/slider_5.jpg"
 date: 2017-02-19 18:55:09
 ---
 
-
+## Animated HTML5 Banner Campaign
 <iframe height="600px" width="300px" scrolling="no" src="https://anakatir.github.io/content/prolingua/"></iframe>
 
 <br>
+## Landing page design mockup for Celestino [clothing brand]
 
 <img class="post" src="/content/images/photography/Celestino_anding_page_mockup.jpg">
 
+## Landing page design mockup for Prolingua  [language center]
+
 <img class="post" src="/content/images/photography/Prolingua_landing_Page_mockup.jpg">
+
+## Language center advertisement banners
 
 <img class="post" src="/content/images/photography/slider_1.jpg">
 

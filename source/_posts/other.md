@@ -2,7 +2,7 @@
 title: Other Works
 cover_index: "/content/images/animation/scherry.jpg"
 cover_detail: "/content/images/animation/fork.jpg"
-date: 2017-02-19 18:55:09
+date: 2016-02-19 18:55:09
 tags:
 ---
 ## Print

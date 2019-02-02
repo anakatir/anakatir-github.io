@@ -7,10 +7,8 @@ RESTART ->> Ctrl+C    -> y --> npm start
 
 DEN PEIRAZW TA PUBLIC
 
-Changes(github) - description&commit
+Changes(github) - description + commit + SYNC
 
 To publish site, open Terminal:
 - npm run build
 - npm run deploy
-
-4 broken images need fix!!!!!
